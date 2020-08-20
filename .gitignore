@@ -1,0 +1,6 @@
+.idea/
+fccb
+*.fcc
+*.service
+*.service.d
+completion.bash
